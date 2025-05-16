@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sheetsapi-459907",
+  "private_key_id": "425d5fe31f8cfe354d6d5a36160eb41b06b46b8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCb0sll5r3Dd1BO\nObcj1Z31+fh+aMMQ7Q9fPzuBfMAdXQurH1CVfEUhdgN+jqLBVChLB7RTVLIpVx1y\nHyewhyWMVJuawrtZ9VbR9wP1vj12qcTYSh9A+kQLAfcYacd9K9mrusQ550QRRnm3\nMhlF5YgpRDM1ZDFe1H6gx6KfqgOpD1o6xHCloQH/ocQhPSMxz9MNUJyflGF+U09a\nMiCaoHBNdzAMM/I2FLPXL2CaCUcvGOOcY/VGxktGKHzAq3N2KxdVD67uNXVto50T\ncdTGH2xxqqWHLxITN/M4Wy9Js9ZQmS2bi07orAebePTFAkGdoaT/Plz/J1IEZZMw\nN3dCs5v5AgMBAAECggEAB+LTU/+pP2z4qLjViq/7MlFwEM+y/ZaNxluAIrXCUEoe\n9s5bKPGU2xRqqVtFI+UjM+bkKqp46Mwyno2yl8XDMfavOFYeHreiqPYoImX6HNkL\nMAoSSlrQGkGDdJ4X3T8coUsOtsJ8SKaJLusPaeDrsvDzaYKUWBEHhpIL6iozzLi4\np77nwcjUKztacYMufBOhOn3ddpXvwAli3iIAmQo7lkGtK9PeJJ4gWyVpJkABPhkg\nB7yHhCVPO7lQKpio5V/5ZTcvAPlNtueK72y21S1m+BnsmxqFgZaNa9un8rYD4q3H\nHJ/PR9z9GHSszygfKQRZfEm3KnpJBXaU714CIB8ZPQKBgQDYTc1uvZSMUS0UEeyb\ntuLJOEOb0qMIaQA6s9qeR14M+bW01F1aa8vKT640+CQy2o+uPcFA2aLVnPSzHGIn\nw/bFrslC1ZRk6LbN/uK1f95IT0Zm7ogdto8vQQtOqCZ2X3PH1zaxQYsWuBcP7oTq\nU1rE5yMoDwLoQMAc/4F/P30NbQKBgQC4a4q8xgXw9XuQGMKMq4/zRA2ulYhLQAkM\nnwT2WUryFGzfuwxLw9uVSAAJwWmfyzKAbChPYQPI8Jz6hoaoVWGf129oyNEFFHen\n7mY7vpDwJpFXsr/0JCfx1u1n2S95FseseZpqsrRsZ/ufu4nW8RcKV39WWAQwW9hf\nVBWyYfBtPQKBgA6YQVJFjG5jU81U4EgpcOfu2fD7p3B71T4gwJGJczkg6DfJVHsz\nZs7BzZlZXOfpg2RYWl/Lz4bmTkR/l8fjGxV/k6jkzFx6r0r69cUVWaQ7ZR6w3ZJT\nrRmdI+wswFugWSmUxeXz7DSeO0Ah8en1sdwzVFXxnVqac9wBCXXSjNeJAoGBAI2+\nQmTzAnAADZdkIGvEFSDRRn7P+XB06D+mHUdGvB6x6jhPaJT3FVd4fmcBHDCwGcGw\n346bLzCLFuxK50aMUTtsdvmfl1+DKrCMwFDdGEMsMXupLHX2MCllmxS9TgqQoqmC\n0Vd+wMOtbC2KE9h7ds0BESMJBTcx8GzckMyJECS1AoGBALwU86zWwIV7RtrNf2an\nY3gV4/ebxnYuaOXtzLapNS8DrowYLfrMpX5pcm2/9lzCryTku6JKZ8bjsL3T4tzs\nDmN5ubAhqzHlzRpw3flNTY3ZE+IkbfGSLARC9+OSel9ljlX9JjLwCiJmVkyQ3bGj\nyuWNcTL5VKD4sn9qFGNG4kmf\n-----END PRIVATE KEY-----\n",
+  "client_email": "fashiondatadicoding@sheetsapi-459907.iam.gserviceaccount.com",
+  "client_id": "101337160886949768682",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fashiondatadicoding%40sheetsapi-459907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
