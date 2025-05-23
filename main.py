@@ -13,7 +13,7 @@ HEADERS = {
 # Konfigurasi kredensial
 SERVICE_ACCOUNT_FILE = './google-sheets-api.json'  # File JSON dari Google Service Account
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-SPREADSHEET_ID = '136Q8BKDsyuXFVYnOS_D0s9oVIr6b1RQ6OSeGFGEoCpA'
+SPREADSHEET_ID = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 RANGE_NAME = 'Sheet1!A1'
 
 def fetch_data(url):
